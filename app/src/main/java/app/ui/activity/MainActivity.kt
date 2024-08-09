@@ -18,7 +18,7 @@ import app.ui.screen.textInput.TextInputViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import shared.INavigation
 import shared.compose.dialogBottomSheet
-import shared.compose.navigate
+import shared.navigate
 import shared.onScreenClosed
 import javax.inject.Inject
 
